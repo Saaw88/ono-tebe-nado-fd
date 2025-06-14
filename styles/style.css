@@ -46,22 +46,15 @@
 
 .address {
   font-weight: 400;
+  text-underline-offset: 4px;
   font-style: normal;
   font-size: 18px;
   line-height: 24.3px;
   width: 240px;
-  height: 98px;
-}
-
-.email,
-.t-number {
-  font-style: normal;
-  text-underline-offset: 4px;
 }
 
 .side {
   max-width: 236px;
-  max-height: 49px;
 }
 
 .cover {
@@ -301,12 +294,8 @@
   gap: 25px;
 }
 
-.ap {
+.about-paragraph {
   max-width:688px;
-}
-
-.la {
-  max-width: 693px;
 }
 
 .footer {
